@@ -119,7 +119,7 @@
   </head>
   <body>
     <div class="container">
-		<!-- <h1 class="text-center">How to use jQuery all version!</h1><br><br>
+		<h1 class="text-center">How to use jQuery all version!</h1><br><br>
 			    <button class="btn btn-info btn-sm" id="jQ5">jQuery5 click event</button><br><br>
 			    <button class="btn btn-primary btn-sm" id="jQ22">jQuery2.2.0 click event</button><br><br>
 			    <button class="btn btn-warning btn-sm" id="clickEventHide">This is click event text hide</button><br><br>
@@ -134,7 +134,7 @@
 		<h4 id="name">Hasan Mahmud khan.</h4>
 		<h5 id="hideShow">Welcome to jQuery</h5>
 		<button id="hide">Hide</button>
-		<button id="show">Show</button> -->
+		<button id="show">Show</button>
 		
     </div>
 
