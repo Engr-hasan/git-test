@@ -5,3 +5,4 @@ Route::get('/', function () {
 });
 */
 Route::get('index',"crudController@index");
+Route::get('jquery',"crudController@getJquery");

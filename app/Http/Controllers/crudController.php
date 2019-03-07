@@ -12,4 +12,7 @@ class crudController extends Controller
     public function index(){
     	return view('index');
     }
+    public function getJquery(){
+    	return view('jquery');
+    }
 }
